@@ -1,0 +1,20 @@
+body {
+  padding: 40px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+a {
+  color: #00B7FF; }
+
+.col-2 {
+  width: calc(50% - 10px);
+  display: inline-block;
+  padding: 5px;
+  box-sizing: border-box; }
+  .col-2-top {
+    width: calc(50% - 20px);
+    display: inline-flex; }
+
+.col-1 {
+  width: 100%; }
+
+/*# sourceMappingURL=style.css.map */
